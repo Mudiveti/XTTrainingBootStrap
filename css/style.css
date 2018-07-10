@@ -1,0 +1,83 @@
+/*html body{
+	height: 100%;
+	}
+#cover{
+	background:#222 url('../images/stars.jpg') center center no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	text-align: center;
+	display: flex;
+	align-items: center;
+
+}*/
+
+body{
+	min-width: 294px;
+}
+#cover-caption{
+	width: 100%;
+}
+
+header{
+	background: url('../images/bg-masthead.jpg') center center no-repeat;
+	    background-size: cover;
+	        display: flex;
+    align-items: center;
+     color: white;
+
+}
+
+.section_1{
+	       padding-bottom: 253px;
+	       width: 100%;
+}
+.section_2{
+   padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+#showcase_div1{
+	background: url('../images/bg-showcase-1.jpg');
+	height: 468px;
+    min-width: 300px;
+}
+#showcase_div2{
+	background: url('../images/bg-showcase-2.jpg');
+	height: 468px;
+    min-width: 300px;
+	
+}
+
+#showcase_div3{
+	background: url('../images/bg-showcase-3.jpg');
+	height: 468px;
+    min-width: 300px;
+}
+.section_4{
+	    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+.section_4 img{
+	    max-width: 12rem;
+    box-shadow: 0 5px 5px 0 #adb5bd;
+}
+.section_5_img{
+	    background: url('../images/bg-masthead.jpg') center center;
+	    background-size: cover;
+	    align-items: center;
+     color: white;
+    height: 516px;
+   display: flex;
+
+}
+.section_6{
+	    padding: 80px 0px;
+}
+
+footer p{
+	padding-left: 20px;
+}
+
+
+
+
